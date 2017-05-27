@@ -1,0 +1,125 @@
+#new-entry{
+	background-color:#cdf2c0;
+	border: 1px solid lightblue;
+	box-shadow:1px 1px 15px 0px lightblue;
+	padding:2em;
+	margin:auto;
+	margin-bottom:2em;
+}
+#new-entry label{
+	font-weight:bold;
+
+}
+#new-entry #submit-button-div{
+	text-align:center;
+}
+
+
+/* W3school's button style*/
+#new-entry .submit-button {
+	background-color: #63b4cf; /* Green */
+    border: none;
+    color: white;
+    padding: 11px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+}
+#new-entry .reset-button {
+	background-color:  #ffc966;
+    border: none;
+    color: black;
+    padding: 11px 16px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+}
+.post{
+	/*background-color: #cbf5bc; *//*#bdf5bd 02.12 TEST SAT:74%*/
+	background-color: #cdf2c0;/*SAT: 65%*/
+	padding-left: 1.5em;
+	padding-right: 1.5em;
+	padding-top: 1em;
+	padding-bottom: 1em;
+	margin-bottom: 1em;
+	border: 1px solid lightgreen;
+	box-shadow:1px 1px 15px 0px lightgreen;
+
+}
+
+.post h3{
+	font-size: 150%;
+	font-weight:bold;
+	margin:0;
+}
+
+
+article .date{
+	font-size:small;
+}
+.post-footer{
+	width:100%;
+	margin:auto;
+	padding-top:0.5em;
+	text-align:right;
+}
+.post-footer textarea{
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	box-sizing: border-box;
+	width:100%;
+	margin-bottom:0.5em;
+	resize: vertical;
+	min-height: 60px;
+	overflow-y: auto;
+	word-wrap:break-word
+}
+
+.comment-button{
+		background-color: lightgreen;
+    border: none;
+    color: white;
+    padding: 6px 12px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+		margin-right:1em;
+}
+
+hr{
+		border-color: lightgreen;
+		color:lightgreen;
+		background-color: lightgreen;
+		width:95%;
+	 	height: 1px;
+		border: 0;
+		margin-top:1em;
+		margin-bottom:1em;
+}
+
+.removeArtButton{
+float:right;
+
+}
+
+/*
+modification post-presentation decembre
+
+.postContent{
+	overflow: hidden;
+	max-height: 19em;
+}
+
+.postExt{
+	min-height:20em;
+}
+.extendBtn{
+	text-align:center;
+	height:2em;
+	padding-top:10px;
+	background-color: #ABE996;
+}
+	*/

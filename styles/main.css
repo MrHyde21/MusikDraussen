@@ -1,0 +1,21 @@
+/* mise en page article*/
+h2{
+	/*text-align:center;*/
+	padding-bottom: 1em;
+}
+
+article h3{
+	font-size: 200%;
+	margin-bottom:0;
+}
+
+article .date{
+	font-size:small;
+}
+
+article{
+	text-align:center;
+}
+article img{
+	width:400px;
+}

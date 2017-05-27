@@ -1,0 +1,27 @@
+30.10.2016
+Recolte infos commanditaire (MEI): 
+Confirmation pour un "blog musicotherapie-nature"
+Multi-langues demandees (FR?)/DE/JP/(EN?) dans le menu (simple)
+Possibilite de post d'articles facilite (complexe)
+
+01.11.2016
+elaboration du squelette avec les balises header nav footer article..
+Creation d'un petit menu test avec une liste horizontale
+probleme de calibrage des parties en %
+
+04.11.2016
+Rendu du site termine
+creation de pages au hasard pour meubler le site, toutes sont mises en pages
+
+
+08.11.2016
+Les pages sont traduites en 3 langues * 5 pages -> 15 pages 
+J'attends le contenu du mandant (MEI) en JP/DE
+
+
+11.11.2016
+Changement de toutes les extensions en .php et utilisation de la fontion include "*.php" etc.. 
+tres utile pour les menus en plusieures langues que je peux changer depuis un seul fichier
+Le php sera aussi indispensable pour la suite
+En attendant du contenu et l'avis de Mei je songe deja a la base de donnees pour le login de compte et les posts
+Je me documente ...

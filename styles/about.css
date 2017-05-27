@@ -1,0 +1,46 @@
+#profilFrame{
+	display:inline-block;
+	height:200px;
+	width:220px;
+	background-color:green;
+	text-align:center;
+	
+	
+}
+
+#profilHelper{
+	display:inline-block;
+	height:100%;
+	vertical-align:middle;
+}
+
+#profilImg{
+	vertical-align:middle;
+	height:96.5%;
+	width:97%;
+	border: 1px solid #cdf2c0;
+}
+
+#profilDesc{
+	display:inline-block;
+	background-color: #cdf2c0;
+	padding-right:1em;
+	padding-left:1em;
+	max-width:600px;
+	height:200px;
+	vertical-align:middle;
+}
+#profilDesc p{
+
+	margin-top:15px;
+}
+#profilAbout{
+	margin-top:1em;
+	background-color: #cdf2c0;
+	min-height:170px;
+	width:825px;
+	vertical-align:middle;
+	padding-right:1em;
+	padding-left:1em;
+	padding-top:5px;
+}

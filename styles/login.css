@@ -1,0 +1,27 @@
+fieldset{
+	background-color:#cdf2c0;
+	border: 1px solid lightblue;
+	box-shadow:1px 1px 15px 0px lightblue;
+	width: 300px;
+	margin:auto;
+	text-align: center;
+	
+}
+
+fieldset input[type="submit"]{
+	background-color: #63b4cf; /* blue */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+}
+
+fieldset label, fieldset input{
+	padding: 0.5em;
+	margin: .5em;
+	font-size: 120%;
+}
+

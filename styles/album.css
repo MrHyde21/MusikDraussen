@@ -1,0 +1,51 @@
+.albumFrame{
+	background-color:#cdf2c0;
+	padding:1em;
+	margin: 1em;
+	margin-bottom:3em;
+}
+.albumCell{
+	display: inline-block;
+	height:195px;
+	width:195px;
+	border: 1px solid green;
+}
+
+.albumCell img{
+	height:100%;
+	width:100%;
+}
+
+/* Style du carousel */
+.carousel{
+	margin-top:2em;
+}
+.carousel img{
+	max-width: 100%;
+	height: 100%;
+}
+.carousel-cell {
+  max-width: 66%;
+  height: 400px;
+  margin-right: 10px;
+  background: #8C8;
+  border-radius: 5px;
+}
+
+.carousel-cell:before {
+  display: block;
+  text-align: center;
+  line-height: 200px;
+  font-size: 80px;
+  color: white;
+}
+.carousel .desc{
+	opacity:0.8;
+	height: 20px;
+	position: absolute;
+	top: 0;
+	left: 0;
+	background-color: black;
+	color: white;
+	font-size: 150%;
+}
